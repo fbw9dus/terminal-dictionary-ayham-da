@@ -1,0 +1,23 @@
+{
+  "name": "terminal-dictionary-ayham-da",
+  "version": "1.0.0",
+  "description": "Schreib ein Wörterbuch-Programm, das die Oxford-Wörterbuch-API benutzt. Das Programm soll die Definition zu jedem englischen Wort anzeigen können.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/terminal-dictionary-ayham-da.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/terminal-dictionary-ayham-da/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/terminal-dictionary-ayham-da#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "url": "^0.11.0"
+  }
+}
